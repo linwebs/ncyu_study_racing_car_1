@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=RacingCar
+Exec=AppRun %F
+Icon=icon
+Comment=NCYU Study Racing Car Game
+Terminal=true
+Categories=Game;
